@@ -1,8 +1,0 @@
-package test1;
-
-public class Book {
-	// instance variables
-	private long bookId;
-	private String bookName;
-	private double bookPrice;
-}
