@@ -32,7 +32,7 @@ class B extends A{
 		return null;
 	}
 	@Override
-	public void meth4() throws SQLException{
+	public void meth4() throws IOException{
 		
 	}
 }
